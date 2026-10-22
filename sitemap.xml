@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- WebNikhar Studio sitemap. LAUNCH STEP: live hostname confirmed at deployment (2026-10-22): https://webnikhar-studio.pages.dev. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://webnikhar-studio.pages.dev/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

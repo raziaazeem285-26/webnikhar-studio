@@ -1,0 +1,6 @@
+# WebNikhar Studio — robots.txt
+# Live hostname: https://webnikhar-studio.pages.dev (set at deployment, 2026-10-22).
+User-agent: *
+Allow: /
+
+Sitemap: https://webnikhar-studio.pages.dev/sitemap.xml
